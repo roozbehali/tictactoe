@@ -4,6 +4,6 @@ git clone https://github.com/roozbehali/tictactoe
 ```
 ## Run
 ```
-npm -i 'react'
+npm i react
 npm start
 ```
